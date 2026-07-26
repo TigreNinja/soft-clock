@@ -702,11 +702,36 @@ Algunas decisiones de diseño que conviene conocer:
 
 ## Licencia y créditos
 
-Diseño y desarrollo: **Tigre Ninja** — La Leyenda.
+### Código fuente
 
-Componente comercial. Licencia y uso comercial según la plataforma de distribución desde la que se haya adquirido. Para licencias personalizadas, integración a medida o adaptaciones, contactar con el autor.
+El código fuente de **SoftClock**, incluido `softclock.js` y los ejemplos de integración, se distribuye bajo la **MIT License**.
 
-Inspiración tipográfica del documento: este README se diseñó para ser leído con tipografía monoespaciada o sans neutra. La estética del componente se inspira en relojes de la tradición *neuhaus / braun*, releídos hacia algo más cálido y menos industrial.
+Esto permite usar, copiar, modificar, integrar, publicar, distribuir, sublicenciar y vender copias del software, siempre que se conserve el aviso de copyright y el texto de la licencia.
+
+Consulta el archivo [`LICENSE`](LICENSE) para conocer los términos completos.
+
+Copyright © 2026 **Tigre Ninja**.
+
+### Recursos visuales y marca
+
+La licencia MIT se aplica exclusivamente al código fuente y a la documentación técnica, salvo que se indique expresamente lo contrario.
+
+La imagen [`cover.png`](cover.png), el nombre **Tigre Ninja**, los logotipos, elementos de identidad visual, ilustraciones, diseños promocionales y demás recursos gráficos originales no están cubiertos por la MIT License.
+
+**`cover.png`**
+
+Copyright © 2026 Tigre Ninja. Todos los derechos reservados.
+
+La imagen puede visualizarse como parte de este repositorio y de la documentación oficial de SoftClock. No se autoriza su copia, modificación, redistribución, sublicencia, venta, incorporación a otros productos o utilización como identidad visual de proyectos derivados sin autorización previa y por escrito del titular.
+
+La licencia del código permite crear y distribuir proyectos derivados de SoftClock, pero no concede derechos sobre la marca, la portada ni los demás recursos visuales protegidos.
+
+### Créditos
+
+Diseño y desarrollo: **HAKUSHIN TIGRE NINJA™ 2026 — Josep Andreu Vivancos Oto**.
+
+SoftClock es software independiente y no está afiliado ni respaldado por terceros cuyos nombres o plataformas puedan mencionarse en la documentación.
+
 
 ---
 
